@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cesar\\OneDrive\\Documentos\\PROYECTOS\\CURSOS\\Curso AS.NET CORE\\MVCCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE294B0-2C9F-4AF7-B4B2-1E14F3191FC2}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\cesar\\onedrive\\documentos\\proyectos\\cursos\\curso as.net core\\mvccrud\\mvccrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE294B0-2C9F-4AF7-B4B2-1E14F3191FC2}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE294B0-2C9F-4AF7-B4B2-1E14F3191FC2}|MVCCRUD\\MVCCRUD.csproj|c:\\users\\cesar\\onedrive\\documentos\\proyectos\\cursos\\curso as.net core\\mvccrud\\mvccrud\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE294B0-2C9F-4AF7-B4B2-1E14F3191FC2}|MVCCRUD\\MVCCRUD.csproj|solutionrelative:mvccrud\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cesar\\OneDrive\\Documentos\\PROYECTOS\\CURSOS\\Curso AS.NET CORE\\MVCCRUD\\MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cesar\\OneDrive\\Documentos\\PROYECTOS\\CURSOS\\Curso AS.NET CORE\\MVCCRUD\\MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T13:33:46.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cesar\\OneDrive\\Documentos\\PROYECTOS\\CURSOS\\Curso AS.NET CORE\\MVCCRUD\\MVCCRUD\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCRUD\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cesar\\OneDrive\\Documentos\\PROYECTOS\\CURSOS\\Curso AS.NET CORE\\MVCCRUD\\MVCCRUD\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "MVCCRUD\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T12:11:22.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
